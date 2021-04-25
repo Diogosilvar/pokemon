@@ -1,0 +1,32 @@
+.menu__inicial {
+    text-align: center;
+}
+
+.total {
+    background-color: lightblue;
+}
+
+.titulo {
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.imagem01 {
+    height: 15rem;
+    position: fixed;
+}
+
+.imagem02 {
+    height: 15rem;
+}
+
+#botao {
+    border-radius: 0.3rem;
+    padding: 0.35rem 1rem;
+}
+
+.rodape {
+    display: flex;
+    margin: 35rem 0rem 0rem 0rem;
+    justify-content: space-between;
+}
